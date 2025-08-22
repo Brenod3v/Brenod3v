@@ -1,3 +1,16 @@
+## Hello world 🌍, I'm Breno!
+
+<img align='right' src="https://media.giphy.com/media/3mKBXLpYeLzUY/giphy.gif" alt="Pinky and the Brain" width="250" style="flex-shrink: 0;"/>
+
+💻 I'm a software developer passionate about backend development, cloud technologies, and building scalable applications.
+
+🎓 Currently, I'm finishing my Bachelor’s degree in Software Engineering at the Federal University of Mato Grosso do Sul (UFMS).
+
+<br/>
+
+## 🛠️ Technologies & Tools  
+
+### Languages  
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
@@ -29,7 +42,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff"/>
 </p>
 
-### Frontend (basics)  
+### Frontend  
 <p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
