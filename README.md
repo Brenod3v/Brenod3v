@@ -7,7 +7,7 @@
 🎓 Currently, I'm finishing my Bachelor’s degree in Software Engineering at the Federal University of Mato Grosso do Sul (UFMS).
 
 <br/>
-
+<br/>
 ## 🛠️ Technologies & Tools  
 
 ### Languages  
