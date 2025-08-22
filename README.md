@@ -1,4 +1,4 @@
-## Hello world 🌍, I'm Breno!
+## Hello, world 🌍! I'm Breno.
 
 <img align='right' src="https://media.giphy.com/media/3mKBXLpYeLzUY/giphy.gif" alt="Pinky and the Brain" width="250" style="flex-shrink: 0;"/>
 
