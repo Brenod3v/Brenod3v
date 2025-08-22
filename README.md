@@ -1,20 +1,8 @@
-## Hello world 🌍, I'm Breno!
-
-<img align='right' src="https://media.giphy.com/media/3mKBXLpYeLzUY/giphy.gif" alt="Pinky and the Brain" width="250" style="flex-shrink: 0;"/>
-
-💻 I'm a software developer passionate about backend development, cloud technologies, and building scalable applications.
-
-🎓 Currently, I'm finishing my Bachelor’s degree in Software Engineering at the Federal University of Mato Grosso do Sul (UFMS).
-
-<br/>
-
-## 🛠️ Technologies & Tools  
-
-### Languages  
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff"/>
 </p>
 
@@ -30,12 +18,14 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff"/>
 </p>
 
 ### Cloud & DevOps  
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff"/>
 </p>
 
