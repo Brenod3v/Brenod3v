@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/LangGraph-000?style=for-the-badge&logo=langchain&logoColor=fff"/>
 </p>
 
 ### Databases  
@@ -42,4 +43,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff"/>
+</p>
+
+### Artificial Intelligence  
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=ff6f00"/>
+  <img src="https://img.shields.io/badge/AI-6C63FF?style=for-the-badge&logo=openai&logoColor=fff"/>
 </p>
