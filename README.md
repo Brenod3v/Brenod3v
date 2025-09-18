@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/3mKBXLpYeLzUY/giphy.gif" alt="Pinky and the Brain" width="250" style="flex-shrink: 0;"/>
 
-💻 I'm a software developer passionate about backend development, cloud technologies, and building scalable applications.
+💻 I'm a software developer passionate about AI and backend development, cloud technologies, and building scalable applications.
 
 🎓 Currently, I'm finishing my Bachelor’s degree in Software Engineering at the Federal University of Mato Grosso do Sul (UFMS).
 
